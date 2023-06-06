@@ -1,0 +1,37 @@
+# Flutter/Dart specific
+**/build/
+**/ios/Pods/
+**/android/build/
+**/android/.gradle/
+**/android/app/build/
+**/android/gradle/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Generated files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+.pub-cache/
+ios/Flutter/App.framework/
+ios/Flutter/Flutter.framework/
+macos/Flutter/Flutter.podspec
+macos/Flutter/FlutterMacOS.framework/
+web/packages/
+web/flutter_service_worker.js
+web/flutter_service_worker.js.map
+web/index.html
+web/main.dart.js
+web/main.dart.js.map
+
+# Miscellaneous
+*.lock
+*.log
+*.log.*
+*.tmp
+.DS_Store
